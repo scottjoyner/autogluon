@@ -1,19 +1,3 @@
-<!-- repo-entrypoint-guide:start -->
-## Repository guide
-
-**Repository context:** The README below documents an older AutoGluon upstream checkout, including example package versions and upstream badges. They are not evidence that `scottjoyner/autogluon` passes current CI or supports current Python versions.
-
-**Before installing:** Use a fresh virtual environment and check this checkout's pinned requirements and platform support; compare with the upstream release documentation when choosing a modern installation.
-
-### Find your way
-
-- [AutoML for Image, Text, and Tabular Data](#automl-for-image-text-and-tabular-data)
-- [Example](#example)
-- [Resources](#resources)
-- [Contributing to AutoGluon](#contributing-to-autogluon)
-- [Citing AutoGluon](#citing-autogluon)
-<!-- repo-entrypoint-guide:end -->
-
 
 
 <div align="left">
@@ -33,6 +17,23 @@
 [Install Instructions](https://auto.gluon.ai/stable/install.html) | Documentation ([Stable](https://auto.gluon.ai/stable/index.html) | [Latest](https://auto.gluon.ai/dev/index.html))
 
 AutoGluon automates machine learning tasks enabling you to easily achieve strong predictive performance in your applications.  With just a few lines of code, you can train and deploy high-accuracy machine learning and deep learning models on image, text, and tabular data.
+
+
+<!-- repo-entrypoint-guide:start -->
+## Repository guide
+
+**Repository context:** The README below documents an older AutoGluon upstream checkout, including example package versions and upstream badges. They are not evidence that `scottjoyner/autogluon` passes current CI or supports current Python versions.
+
+**Before installing:** Use a fresh virtual environment and check this checkout's pinned requirements and platform support; compare with the upstream release documentation when choosing a modern installation.
+
+### Find your way
+
+- [AutoML for Image, Text, and Tabular Data](#automl-for-image-text-and-tabular-data)
+- [Example](#example)
+- [Resources](#resources)
+- [Contributing to AutoGluon](#contributing-to-autogluon)
+- [Citing AutoGluon](#citing-autogluon)
+<!-- repo-entrypoint-guide:end -->
 
 ## Example
 
